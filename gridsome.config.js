@@ -6,6 +6,7 @@
 
 module.exports = {
   siteName: 'Gridsome',
+  siteUrl: 'https://new.mbrn.in',
   siteDescription: "An open-source framework to generate awesome pages",
   plugins: [
     {
